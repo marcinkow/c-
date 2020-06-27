@@ -1,0 +1,10 @@
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\bin\Debug\DatabaseWorkers.exe.config
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\bin\Debug\DatabaseWorkers.exe
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\bin\Debug\DatabaseWorkers.pdb
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.Form1.resources
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.Properties.Resources.resources
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.exe
+C:\Users\Marcin\source\repos\DatabaseWorkers\DatabaseWorkers\obj\Debug\DatabaseWorkers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\bin\Debug\05_Snake.exe.config
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\bin\Debug\05_Snake.exe
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\bin\Debug\05_Snake.pdb
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\05_Snake.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\_05_Snake.Properties.Resources.resources
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\05_Snake.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\05_Snake.exe
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\05_Snake.pdb
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\_05_Snake.FormSnake.resources
+C:\Users\Marcin\source\repos\05_Snake\05_Snake\obj\Debug\05_Snake.csproj.CoreCompileInputs.cache

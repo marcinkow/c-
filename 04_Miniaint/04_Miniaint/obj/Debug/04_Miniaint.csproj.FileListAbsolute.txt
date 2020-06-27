@@ -1,0 +1,10 @@
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\bin\Debug\04_Miniaint.exe.config
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\bin\Debug\04_Miniaint.exe
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\bin\Debug\04_Miniaint.pdb
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\04_Miniaint.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\_04_Miniaint.Form1.resources
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\_04_Miniaint.Properties.Resources.resources
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\04_Miniaint.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\04_Miniaint.exe
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\04_Miniaint.pdb
+C:\Users\Marcin\source\repos\04_Miniaint\04_Miniaint\obj\Debug\04_Miniaint.csproj.CoreCompileInputs.cache

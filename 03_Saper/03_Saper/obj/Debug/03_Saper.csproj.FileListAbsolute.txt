@@ -1,0 +1,9 @@
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\bin\Debug\03_Saper.exe.config
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\bin\Debug\03_Saper.exe
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\bin\Debug\03_Saper.pdb
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\obj\Debug\03_Saper.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\obj\Debug\_03_Saper.Properties.Resources.resources
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\obj\Debug\03_Saper.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\obj\Debug\03_Saper.exe
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\obj\Debug\03_Saper.pdb
+C:\Users\Marcin\source\repos\03_Saper\03_Saper\obj\Debug\_03_Saper.FormMainWindow.resources

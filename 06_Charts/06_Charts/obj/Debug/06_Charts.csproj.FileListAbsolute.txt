@@ -1,0 +1,12 @@
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\bin\Debug\06_Charts.exe.config
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\bin\Debug\06_Charts.exe
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\bin\Debug\06_Charts.pdb
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\06_Charts.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\_06_Charts.Properties.Resources.resources
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\06_Charts.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\06_Charts.exe
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\06_Charts.pdb
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\_06_Charts.MainWindow.resources
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\_06_Charts.UserControlPolynomial.resources
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\06_Charts.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\06_Charts\06_Charts\obj\Debug\_06_Charts.UserControlPolynomialTree.resources
